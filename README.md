@@ -1,2 +1,2 @@
-# User-Management-Using-Spring-Rest-React
-User Management Using Spring Boot, Rest, React and MySQL
+# User-Management-Using-Java-Spring-Rest-React
+User Management Using Java, Spring Boot, Rest, React and MySQL
